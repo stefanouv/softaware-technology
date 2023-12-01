@@ -1,2 +1,2 @@
 # softaware-technology
-// my first words to the git5
+// my first words to the git
